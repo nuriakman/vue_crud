@@ -1,2 +1,6 @@
-# vue_crud
-PHP - MySQL - VUE ile CRUD Örneği
+# Vue.js ile CRUD İşlemi
+
+## CRUD Örneği
+- PHP
+- MySQL
+- Vue.js 
